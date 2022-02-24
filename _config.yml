@@ -13,4 +13,11 @@ plainwhite:
   
   sitemap: true
   
+  navigation:
+    - title: "Project A"
+      url: "/projectA"
+    - title: "Project B"
+      url: "/projectB"
+  
+  dark_mode: true
   
