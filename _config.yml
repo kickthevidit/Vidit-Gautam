@@ -18,6 +18,3 @@ plainwhite:
       url: "/projectA"
     - title: "Project B"
       url: "/projectB"
-  
-  dark_mode: true
-  
