@@ -1,6 +1,8 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
+  portfolio_image: ""
+
   name: Vidit Gautam
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
@@ -8,3 +10,7 @@ plainwhite:
   social_links:
     github: samarsault
     linkedIn: in/viditg # format: locale/username
+  
+  sitemap: true
+  
+  
