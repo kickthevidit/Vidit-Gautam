@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vidit Gautam
 
 You can use the [editor on GitHub](https://github.com/kickthevidit/pages_github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
